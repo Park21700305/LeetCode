@@ -1,2 +1,2 @@
-# This is PPS(ProgrammingProblemSolving) Code from LeetCode
+# Problems from LeetCode
 https://leetcode.com/
